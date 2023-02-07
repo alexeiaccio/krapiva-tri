@@ -1,0 +1,265 @@
+[
+  { "source": "/marina-israilova", "destination": "/authors/marina-israilova" },
+  {
+    "source": "/anastasiya-vepreva",
+    "destination": "/authors/anastasiya-vepreva"
+  },
+  { "source": "/elina-lebedze", "destination": "/authors/elina-lebedze" },
+  {
+    "source": "/sonya-krainihvzglyadov-akimova",
+    "destination": "/authors/sonya-krainihvzglyadov-akimova"
+  },
+  { "source": "/mark-tsinkevich", "destination": "/authors/mark-tsinkevich" },
+  { "source": "/vika-biran", "destination": "/authors/vika-biran" },
+  { "source": "/antonina-stebur", "destination": "/authors/antonina-stebur" },
+  {
+    "source": "/institut-politicheskoi-magii",
+    "destination": "/authors/institut-politicheskoi-magii"
+  },
+  { "source": "/maks-evstropov", "destination": "/authors/maks-evstropov" },
+  {
+    "source": "/anastasiya-usacheva",
+    "destination": "/authors/anastasiya-usacheva"
+  },
+  {
+    "source": "/rikardo-marin-vidal",
+    "destination": "/authors/rikardo-marin-vidal"
+  },
+  { "source": "/darina-ivanova", "destination": "/authors/darina-ivanova" },
+  { "source": "/nigina-sharopova", "destination": "/authors/nigina-sharopova" },
+  { "source": "/leda-garina", "destination": "/authors/leda-garina" },
+  { "source": "/roman-osminkin", "destination": "/authors/roman-osminkin" },
+  {
+    "source": "/nadezhda-ishkinyaeva",
+    "destination": "/authors/nadezhda-ishkinyaeva"
+  },
+  { "source": "/yulya-kozhemyako", "destination": "/authors/yulya-kozhemyako" },
+  { "source": "/lika-kareva", "destination": "/authors/lika-kareva" },
+  { "source": "/lera-kononchuk", "destination": "/authors/lera-kononchuk" },
+  {
+    "source": "/yulii-ilyuschenko",
+    "destination": "/authors/yulii-ilyuschenko"
+  },
+  {
+    "source": "/aleksandra-dunaeva",
+    "destination": "/authors/aleksandra-dunaeva"
+  },
+  { "source": "/natalya-petuhova", "destination": "/authors/natalya-petuhova" },
+  { "source": "/egor-sofronov", "destination": "/authors/egor-sofronov" },
+  {
+    "source": "/kseniya-kononenko",
+    "destination": "/authors/kseniya-kononenko"
+  },
+  {
+    "source": "/anastasiya-dmitrievskaya",
+    "destination": "/authors/anastasiya-dmitrievskaya"
+  },
+  { "source": "/fedor-hirosige", "destination": "/authors/fedor-hirosige" },
+  { "source": "/sergei-akimov", "destination": "/authors/sergei-akimov" },
+  {
+    "source": "/tatyana-danilevskaya",
+    "destination": "/authors/tatyana-danilevskaya"
+  },
+  { "source": "/mariya-iilmaz", "destination": "/authors/mariya-iilmaz" },
+  { "source": "/anna-infanteva", "destination": "/authors/anna-infanteva" },
+  { "source": "/katya-tihonenko", "destination": "/authors/katya-tihonenko" },
+  {
+    "source": "/semen-motolyanets",
+    "destination": "/authors/semen-motolyanets"
+  },
+  { "source": "/syanda-yaptik", "destination": "/authors/syanda-yaptik" },
+  { "source": "/olga-davidik", "destination": "/authors/olga-davidik" },
+  {
+    "source": "/nikolai-oleinikov",
+    "destination": "/authors/nikolai-oleinikov"
+  },
+  { "source": "/natalya-ribalko", "destination": "/authors/natalya-ribalko" },
+  { "source": "/yaroslav-volovod", "destination": "/authors/yaroslav-volovod" },
+  { "source": "/nika-dubrovskaya", "destination": "/authors/nika-dubrovskaya" },
+  { "source": "/aleksei-ache", "destination": "/authors/aleksei-ache" },
+  { "source": "/aleksei-lyubimov", "destination": "/authors/aleksei-lyubimov" },
+  { "source": "/vika-kravtsova", "destination": "/authors/vika-kravtsova" },
+  {
+    "source": "/stanislav-podusenko",
+    "destination": "/authors/stanislav-podusenko"
+  },
+  { "source": "/maksim-sher", "destination": "/authors/maksim-sher" },
+  { "source": "/anna-engelhardt", "destination": "/authors/anna-engelhardt" },
+  { "source": "/oksana-timofeeva", "destination": "/authors/oksana-timofeeva" },
+  { "source": "/sergei-novikov", "destination": "/authors/sergei-novikov" },
+  { "source": "/savinaz-evdike", "destination": "/authors/savinaz-evdike" },
+  { "source": "/katya-ivanova", "destination": "/authors/katya-ivanova" },
+  { "source": "/mariya-dmitrieva", "destination": "/authors/mariya-dmitrieva" },
+  {
+    "source": "/rastitelnii-vestnik",
+    "destination": "/authors/rastitelnii-vestnik"
+  },
+  {
+    "source": "/valentin-dyakonov",
+    "destination": "/authors/valentin-dyakonov"
+  },
+  {
+    "source": "/mihail-fedorchenko",
+    "destination": "/authors/mihail-fedorchenko"
+  },
+  { "source": "/anna-kozlova", "destination": "/authors/anna-kozlova" },
+  { "source": "/mariya-mitrenina", "destination": "/authors/mariya-mitrenina" },
+  {
+    "source": "/anastasiya-kachalova",
+    "destination": "/authors/anastasiya-kachalova"
+  },
+  { "source": "/georgii-sokolov", "destination": "/authors/georgii-sokolov" },
+  { "source": "/tehno-poeziya", "destination": "/authors/tehno-poeziya" },
+  { "source": "/nikolai-shuvalov", "destination": "/authors/nikolai-shuvalov" },
+  {
+    "source": "/kirill-rozhentsov",
+    "destination": "/authors/kirill-rozhentsov"
+  },
+  { "source": "/nadya-sayapina", "destination": "/authors/nadya-sayapina" },
+  { "source": "/alla-mitrofanova", "destination": "/authors/alla-mitrofanova" },
+  { "source": "/andrei-vozyanov", "destination": "/authors/andrei-vozyanov" },
+  { "source": "/marina-russkih", "destination": "/authors/marina-russkih" },
+  { "source": "/kseniya-yurkova", "destination": "/authors/kseniya-yurkova" },
+  { "source": "/krapiva", "destination": "/authors/krapiva" },
+  { "source": "/devid-greber", "destination": "/authors/devid-greber" },
+  { "source": "/olya-sosnovskaya", "destination": "/authors/olya-sosnovskaya" },
+  { "source": "/vanya-demidkin", "destination": "/authors/vanya-demidkin" },
+  { "source": "/sasha-starost", "destination": "/authors/sasha-starost" },
+  { "source": "/elena-nikanorova", "destination": "/authors/elena-nikanorova" },
+  { "source": "/nikolai-sinyaev", "destination": "/authors/nikolai-sinyaev" },
+  { "source": "/anna-temkina", "destination": "/authors/anna-temkina" },
+  {
+    "source": "/aleksandr-kondakov",
+    "destination": "/authors/aleksandr-kondakov"
+  },
+  { "source": "/masha-ivasenko", "destination": "/authors/masha-ivasenko" },
+  {
+    "source": "/kseniya-brailovskaya",
+    "destination": "/authors/kseniya-brailovskaya"
+  },
+  { "source": "/varya-mihailova", "destination": "/authors/varya-mihailova" },
+  { "source": "/irina-aksenova", "destination": "/authors/irina-aksenova" },
+  {
+    "source": "/lizaveta-matveeva",
+    "destination": "/authors/lizaveta-matveeva"
+  },
+  { "source": "/sergei-yugov", "destination": "/authors/sergei-yugov" },
+  {
+    "source": "/danita-pushkareva",
+    "destination": "/authors/danita-pushkareva"
+  },
+  {
+    "source": "/n-i-i-ch-e-g-o-d-e-l-a-t-",
+    "destination": "/authors/n-i-i-ch-e-g-o-d-e-l-a-t-"
+  },
+  {
+    "source": "/dmitrii-vilenskii",
+    "destination": "/authors/dmitrii-vilenskii"
+  },
+  {
+    "source": "/neopoznannii-edinorog",
+    "destination": "/authors/neopoznannii-edinorog"
+  },
+  {
+    "source": "/iskrenne-vasha-sarancha",
+    "destination": "/authors/iskrenne-vasha-sarancha"
+  },
+  { "source": "/dmitrii-pilikin", "destination": "/authors/dmitrii-pilikin" },
+  { "source": "/sasha-kachko", "destination": "/authors/sasha-kachko" },
+  {
+    "source": "/konstantin-samolovov",
+    "destination": "/authors/konstantin-samolovov"
+  },
+  {
+    "source": "/anastasiya-makarenko",
+    "destination": "/authors/anastasiya-makarenko"
+  },
+  { "source": "/anna-zelikova", "destination": "/authors/anna-zelikova" },
+  { "source": "/vita-zelenskaya", "destination": "/authors/vita-zelenskaya" },
+  {
+    "source": "/aleksandr-paschenko",
+    "destination": "/authors/aleksandr-paschenko"
+  },
+  {
+    "source": "/aleksandra-generalova",
+    "destination": "/authors/aleksandra-generalova"
+  },
+  { "source": "/nonyudo", "destination": "/authors/nonyudo" },
+  { "source": "/denis-sorokin", "destination": "/authors/denis-sorokin" },
+  { "source": "/zoya-zoa-art", "destination": "/authors/zoya-zoa-art" },
+  { "source": "/mariya-nikolaeva", "destination": "/authors/mariya-nikolaeva" },
+  {
+    "source": "/ekaterina-sokolovskaya",
+    "destination": "/authors/ekaterina-sokolovskaya"
+  },
+  {
+    "source": "/anastasiya-kotileva",
+    "destination": "/authors/anastasiya-kotileva"
+  },
+  { "source": "/anna-tereshkina", "destination": "/authors/anna-tereshkina" },
+  {
+    "source": "/aleksandra-tsibulya",
+    "destination": "/authors/aleksandra-tsibulya"
+  },
+  { "source": "/iozhi-stolet", "destination": "/authors/iozhi-stolet" },
+  { "source": "/ruslan-polanin", "destination": "/authors/ruslan-polanin" },
+  { "source": "/dmitrii-bezuglov", "destination": "/authors/dmitrii-bezuglov" },
+  {
+    "source": "/aleksandr-korolev",
+    "destination": "/authors/aleksandr-korolev"
+  },
+  { "source": "/ilya-firdman", "destination": "/authors/ilya-firdman" },
+  { "source": "/vasilii-borovoi", "destination": "/authors/vasilii-borovoi" },
+  { "source": "/marina-zubkova", "destination": "/authors/marina-zubkova" },
+  {
+    "source": "/anna-nataliya-malahovskaya",
+    "destination": "/authors/anna-nataliya-malahovskaya"
+  },
+  { "source": "/marina-shamova", "destination": "/authors/marina-shamova" },
+
+  { "source": "/iyun-2021", "destination": "/arhiv/iyun-2021" },
+  { "source": "/sentyabr-2020", "destination": "/arhiv/sentyabr-2020" },
+  { "source": "/avgust-2020", "destination": "/arhiv/avgust-2020" },
+  { "source": "/mart-2021", "destination": "/arhiv/mart-2021" },
+  { "source": "/dekabr-2019", "destination": "/arhiv/dekabr-2019" },
+  { "source": "/sentyabr-2019", "destination": "/arhiv/sentyabr-2019" },
+  { "source": "/dekabr-2020", "destination": "/arhiv/dekabr-2020" },
+  { "source": "/yanvar-2021", "destination": "/arhiv/yanvar-2021" },
+  { "source": "/noyabr-2019", "destination": "/arhiv/noyabr-2019" },
+  { "source": "/fevral-2021", "destination": "/arhiv/fevral-2021" },
+  { "source": "/yanvar-2020", "destination": "/arhiv/yanvar-2020" },
+  { "source": "/iyul-2021", "destination": "/arhiv/iyul-2021" },
+  { "source": "/oktyabr-2019", "destination": "/arhiv/oktyabr-2019" },
+  { "source": "/iyun-2020", "destination": "/arhiv/iyun-2020" },
+  { "source": "/mai-2021", "destination": "/arhiv/mai-2021" },
+  { "source": "/mai-2020", "destination": "/arhiv/mai-2020" },
+  { "source": "/noyabr-2020-", "destination": "/arhiv/noyabr-2020-" },
+  { "source": "/oktyabr-2020", "destination": "/arhiv/oktyabr-2020" },
+  { "source": "/aprel-2021", "destination": "/arhiv/aprel-2021" },
+  { "source": "/aprel-2020", "destination": "/arhiv/aprel-2020" },
+  { "source": "/fevral-2020", "destination": "/arhiv/fevral-2020" },
+  { "source": "/iyul-2020", "destination": "/arhiv/iyul-2020" },
+  { "source": "/avgust-2018", "destination": "/arhiv/avgust-2018" },
+  { "source": "/sentyabr-2018", "destination": "/arhiv/sentyabr-2018" },
+  { "source": "/noyabr-2018", "destination": "/arhiv/noyabr-2018" },
+  { "source": "/oktyabr-2018", "destination": "/arhiv/oktyabr-2018" },
+  { "source": "/dekabr-2018", "destination": "/arhiv/dekabr-2018" },
+  { "source": "/yanvar-2019", "destination": "/arhiv/yanvar-2019" },
+  { "source": "/mart-2019", "destination": "/arhiv/mart-2019" },
+  { "source": "/fevral-2019", "destination": "/arhiv/fevral-2019" },
+  { "source": "/avgust-2021", "destination": "/arhiv/avgust-2021" },
+
+  { "source": "/praktiki-pisma", "destination": "/rubriki/praktiki-pisma" },
+  { "source": "/analitika", "destination": "/rubriki/analitika" },
+  { "source": "/diskussii", "destination": "/rubriki/diskussii" },
+  { "source": "/revyu", "destination": "/rubriki/revyu" },
+  { "source": "/intervyu", "destination": "/rubriki/intervyu" },
+  { "source": "/spetsvipusk", "destination": "/rubriki/spetsvipusk" },
+  { "source": "/magiya-i-mi", "destination": "/rubriki/magiya-i-mi" },
+  { "source": "/veschdok", "destination": "/rubriki/veschdok" },
+  { "source": "/rodina", "destination": "/rubriki/rodina" },
+  { "source": "/dokumenti", "destination": "/rubriki/dokumenti" },
+  { "source": "/arhiv", "destination": "/rubriki/arhiv" },
+  { "source": "/ekskursiya", "destination": "/rubriki/ekskursiya" },
+  { "source": "/arhiv-afishi", "destination": "/rubriki/arhiv-afishi" }
+]
