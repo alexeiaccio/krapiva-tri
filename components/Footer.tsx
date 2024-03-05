@@ -39,19 +39,6 @@ export function Footer() {
       <div
         className={cx('text-xs items-center grid-cols-2 grid gap-px', 'font-montserrat col-span-full')}
       >
-        <div
-          className={cx('whitespace-nowrap px-4 items-center h-full font-semibold', 'font-montserrat flex bg-black')}
-        >
-          разработка{' '}
-          <LinkButton
-            intent="link"
-            size="small"
-            className="hover:text-theme-green-500"
-            href="https://beta.accio.pro"
-          >
-            <>accio</>
-          </LinkButton>
-        </div>
         <div className="flex items-center h-full px-4 bg-black">
           2018—{new Date().getFullYear()}
         </div>
